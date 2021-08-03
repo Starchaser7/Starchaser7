@@ -4,7 +4,7 @@
   </a>
   <p style="text-align: center;">And Welcome to my Github page, here you can see some of my work as a developer ╰(*°▽°*)╯</p>
   <a href="https://github.com/Starchaser7">
-  <img height="160em" widght="auto" src="https://github-readme-stats.vercel.app/api?username=Starchaser7&show_icons=true&theme=merko">
+  <img height="160em" widght="auto" src="https://github-readme-stats.vercel.app/api?username=Starchaser7&show_icons=true&theme=merko&count_private=true">
   <img height="160em" widght="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starchaser7&theme=merko&layout=compact">
   </a>
 </div>
